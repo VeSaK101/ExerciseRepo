@@ -1,2 +1,6 @@
 # sassquach
+<<<<<<< HEAD
 # big sass
+=======
+# baby sass
+>>>>>>> develop
